@@ -3,3 +3,4 @@
 
 # SQL Upit 1: SELECT COUNT(*) AS UkupanBrojBiljaka FROM biljka;
 # SQL Upit 2: SELECT vrsta FROM biljka WHERE naziv = 'Tulipan'
+#
